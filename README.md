@@ -18,8 +18,11 @@ Two layers, one interface:
 ## Install
 
 ```sh
-pip install memgate
+pip install git+https://github.com/hewcarroll/memgate
 ```
+
+Install from this repository, not PyPI: the `memgate` package on PyPI is an
+unrelated project.
 
 ## Usage
 
